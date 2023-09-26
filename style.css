@@ -1,0 +1,41 @@
+body {
+background-color: lawngreen;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+a{
+    color: lawngreen;
+}
+
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    background-color: purple;
+    color: palegreen;
+    width: 100%;
+ padding: 10px;
+ border-bottom: 1px solid lawngreen;
+ }
+ 
+ main {
+     margin-top: 50px;
+ }
+  
+ .box {
+    display: flex;
+ }
+ 
+ .item {
+    width: 200px;
+    height: 95px;
+    border: 8px;
+    margin: 25px;
+    background-color: lawngreen;
+    padding: 5px;
+    box-shadow: 2px 2px 5px black;
+
+ }
+     
+     
